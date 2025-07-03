@@ -65,7 +65,7 @@ This innovative approach supports Reinsurance Group of America’s goal to:
 
 **Notes prepared by** 
 
-Emmanuel Masavo DJEGOU |
+Emmanuel DJEGOU |
 Ph.D. Candidate in Statistics @ Missouri S&T | 
 Data Science Intern @ RGA | 
 
