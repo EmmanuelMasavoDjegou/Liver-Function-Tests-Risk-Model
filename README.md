@@ -9,13 +9,13 @@
 
 ---
 
-## Overview
+## 🧠 Overview
 
 This project introduces a **data-driven Liver Function Tests (LFTs) Calculator** designed to improve mortality risk prediction and support actionable underwriting decisions. The tool translates statistical model outputs into expert-validated life ratings, enhancing underwriting efficiency.
 
 ---
 
-## Key Highlights
+## ✨ Key Highlights
 
 - **Fast and easy to use**  
 - Captures **complex interactions** between multiple liver enzymes  
@@ -23,7 +23,7 @@ This project introduces a **data-driven Liver Function Tests (LFTs) Calculator**
 
 ---
 
-## Background
+## 🩺 Background
 
 Life rating is the process of assessing an individual’s health and mortality risk based on clinical data. This study analyzed data from U.S. life insurance applicants, focusing on five liver enzymes:
 
@@ -37,7 +37,7 @@ A notable finding was a **U-shaped relationship** between ALT levels and mortali
 
 ---
 
-## Approach
+## ⚙️ Approach
 
 The life rating strategy integrates data science with clinical expertise through three steps:
 
@@ -49,7 +49,7 @@ These cut-offs serve as a critical link, making complex model outputs actionable
 
 ---
 
-## Impact
+## 📈 Impact
 
 This innovative approach supports Reinsurance Group of America’s goal to:
 
