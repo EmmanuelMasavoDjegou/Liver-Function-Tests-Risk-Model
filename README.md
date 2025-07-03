@@ -61,6 +61,13 @@ This innovative approach supports Reinsurance Group of America’s goal to:
 
 ## Author
 
-Emmanuel Masavo DJEGOU  
-Ph.D. Candidate in Statistics
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-djegou)
+## 👨‍💻 Author
+
+**Notes prepared by** 
+
+Emmanuel Masavo DJEGOU |
+Ph.D. Candidate in Statistics @ Missouri S&T | 
+Data Science Intern @ RGA | 
+
+Key Words: GLM, Survival Analysis, Healthcare, Life Insurance, Underwriting
+---
