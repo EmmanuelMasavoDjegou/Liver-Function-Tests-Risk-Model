@@ -1,4 +1,4 @@
-# Data-Driven Liver Function Tests (LFTs) Calculator for Life Insurance Underwriting
+# Data-Driven Liver Function Tests Calculator for Life Insurance Underwriting
 
 🔗 **Read the full article here**:  
 [Underwriting Liver Function Tests Using a Data-Driven Approach – RGA](https://www.rgare.com/knowledge-center/article/underwriting-liver-function-tests-using-a-data-driven-approach?utm_source=stakeholder_social&utm_medium=linkedin&utm_campaign=liver_calculator_060925)
