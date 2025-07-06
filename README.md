@@ -65,7 +65,7 @@ This innovative approach supports Reinsurance Group of America’s goal to:
 
 Emmanuel DJEGOU |
 Ph.D. Candidate in Statistics @ Missouri S&T | 
-Data Science Intern @ RGA | 
+Data Science Intern @ RGA
 
 Key Words: GLM, Survival Analysis, Healthcare, Life Insurance, Underwriting
 ---
