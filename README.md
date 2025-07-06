@@ -59,8 +59,6 @@ This innovative approach supports Reinsurance Group of America’s goal to:
 
 ---
 
-## Author
-
 ## 👨‍💻 Author
 
 **Notes prepared by** 
